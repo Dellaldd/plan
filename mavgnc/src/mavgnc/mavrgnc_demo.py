@@ -184,7 +184,7 @@ class MavGNCPositionControl(MavGNCBase):
         self.k_v_fb = 3.5
         self.k_p_att_euler = [5, 5, 5]
 
-        self.vxmax = 1.1
+        self.vxmax = 1.2
         self.vymax = 1.1
         self.vzmax = 1.1
 
